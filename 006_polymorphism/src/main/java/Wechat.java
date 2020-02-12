@@ -1,4 +1,4 @@
-public class Wechat extends Windows {
+public class Wechat extends Software {
   @Override
   public void eventOnPressF5() {
     super.eventOnPressF5();
